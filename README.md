@@ -11,4 +11,4 @@ You need:
   > Postman 
 
 > [!WARNING]
-> For security you will need to generate your own 256-bit key, you can use <a href="https://asecuritysite.com/encryption/plain"> asecuritysite</a> to genereate it.
+> For security you will need to generate your own 256-bit key, you can use <a href="https://asecuritysite.com/encryption/plain"> asecuritysite</a> to generate it.
